@@ -5,7 +5,4 @@
 </p>
 
 
-![Remcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=RemcoVeens&show_icons=true&theme=radical)
-
-
 - 🔭 I’m currently working at [track32](https://www.track32.nl/)
