@@ -6,3 +6,7 @@
 
 
 - 🔭 I’m currently working at [track32](https://www.track32.nl/)
+
+## launguages
+- python
+- -golang
