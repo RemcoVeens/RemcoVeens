@@ -9,4 +9,4 @@
 
 ## launguages
 - python
-- -golang
+- go
