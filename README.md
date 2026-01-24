@@ -1,4 +1,4 @@
-## Hi, i'm Remco Veens from the Netherlands 🇳🇱  👋
+## Hi, i'm Remco Veens from the Netherlands   👋
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/a178e850-6831-45a4-9f3a-94986281e2f4/thumbnail" >
