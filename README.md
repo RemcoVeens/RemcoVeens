@@ -17,3 +17,4 @@
 ## Tools
 - docker
 - rabbitMQ
+- kubernetes
