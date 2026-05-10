@@ -14,6 +14,8 @@
 - go (golang)
 - sql
 
+- currently learning [rust](https://github.com/RemcoVeens/100-exercises-to-learn-rust)
+
 ## Tools
 - docker
 - rabbitMQ
